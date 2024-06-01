@@ -1,0 +1,11 @@
+# Welcome {.unnumbered}
+
+This website hosts the materials for the workshop *"Using Digital Footprint Data to Understand Population Movement"*. The course was designed and is delivered by Prof. Francisco Rowe.
+
+The website is *free to use* and is licensed under the [Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+# Contact {.unnumbered}
+
+> | Prof. Francisco Rowe, Professor in Population Data Science
+> | f.rowe-gonzalez \[at\] liverpool.ac.uk
+> | Department of Geography and Planning, University of Liverpool, Liverpool, United Kingdom

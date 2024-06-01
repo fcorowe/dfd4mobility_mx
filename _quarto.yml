@@ -1,0 +1,30 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Using Digital Footprint Data to Understand Population Movement"
+  author: "Prof. Francisco Rowe"
+  date: today
+  chapters:
+    - index.qmd
+    - overview.qmd
+    - data-description.qmd
+    - temporal-trends.qmd
+    - spatial-patterns.qmd
+    - references.qmd
+
+  search: true
+  site-url: https://fcorowe.github.io/dfd4mobility_mx/
+  repo-url: https://github.com/fcorowe/dfd4mobility_mx
+
+bibliography: references.bib
+margin-header: |
+  ![](/cover.png)
+
+format:
+  html:
+    theme: journal
+
+editor: visual
+
