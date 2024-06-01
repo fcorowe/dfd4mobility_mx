@@ -8,16 +8,11 @@ This workshop offers an introduction to the use of digital footprint data from M
 
 | Time        | Activity                                                    |
 |----------------------|--------------------------------------------------|
-| 10.00-10.15 | Introduction to the course                                  |
-| 10.15-10.30 | Digital footprint data overview                             |
-| 10.30-10.40 | Comfort break                                               |
-| 10.40-11.40 | Meta-Facebook data introduction                             |
-| 11.40-12.15 | Software installation and preparation for practical session |
-| 12.15-13.15 | Lunch break                                                 |
-| 13.15-14.30 | Exploring temporal patterns of human mobility               |
-| 14.30-15.00 | Coffee break                                                |
-| 15.00-16.30 | Exploring spatial patterns of human mobility                |
-| 16.30-17.00 | Q&A                                                         |
+| 10.00-10.10 | Introduction to the course                                  |
+| 10.10-10.25 | Digital footprint data overview                             |
+| 10.25-10.35 | Software installation and preparation for practical session |
+| 10.35-11.50 | Exploring spatial patterns of human mobility                |
+| 11.50-12.00 | Wrap up                                                     |
 
 ## Before the workshop
 

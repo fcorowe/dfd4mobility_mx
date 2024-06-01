@@ -1,10 +1,10 @@
-# Meta-Facebook data introduction
+# Meta-Facebook data {.unnumbered}
 
 ::: callout-note
-Download presentation [here](./slides/un-celade_dfd-mobility_training.pdf)
+Download presentation [here](./slides/un-celade_dfd-mobility_mx_training.pdf)
 :::
 
-## Introduction to digital footprint data
+## Digital footprint data
 
 A digital footprint refers to the trail of digital activities and information left by individuals as they interact with digital platforms and services [@roweetal2023-rps]. It encompasses data generated through online activities such as browsing history, social media interactions, location tracking, and other digital transactions. The cumulative collection of data forms a digital profile that provides insights into an individual's online behavior, preferences, and activities. This data can also be aggregated to shed light into macro structural processes and trends, such as urban mobility, consumer demand, transport usage, population ageing and decline.
 
